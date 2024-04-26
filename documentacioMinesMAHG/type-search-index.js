@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"minesMAHG.controlador","l":"Controlador"},{"p":"minesMAHG","l":"Mines"},{"p":"minesMAHG.model","l":"Model"},{"p":"minesMAHG.vista","l":"Vista"}];updateSearchResults();

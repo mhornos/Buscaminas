@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MinesMAHG:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MinesMAHG_jar</output-path>
+    <root id="archive" name="MinesMAHG.jar">
+      <element id="module-output" name="MinesMAHG" />
+    </root>
+  </artifact>
+</component>
