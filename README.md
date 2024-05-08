@@ -4,7 +4,6 @@
 
 ## Comença a jugar 🕹
 Per començar a jugar al Buscamines en Java, simplement segueix aquests passos:
-(Des de la consola)
 1. Descarregar el projecte i descomprimir-ho.
 1. Obrir el terminal (cmd.exe)
 1. Anar al directori on s'ha creat l'arxiu JAR, per exemple, `cd C:\Users\Miguel Ángel\Downloads\Buscaminas-master`.
